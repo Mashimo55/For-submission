@@ -1,0 +1,13 @@
+@charset "utf-8";
+p{
+  word-spacing:30px;
+}
+
+h1{
+  background-color: gold;
+}
+
+h3{
+  background-color: #800000;
+  color: #ffffff;
+}
